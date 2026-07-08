@@ -1,0 +1,8 @@
+{
+  "name": "India Code Navigator",
+  "description": "An advanced legal search, browsing, and AI-powered research platform for the India Code Digital Repository of central and state laws.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
